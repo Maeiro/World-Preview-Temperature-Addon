@@ -7,3 +7,5 @@ out/
 .classpath
 .project
 .settings/
+libs/*.jar
+bin/

@@ -8,7 +8,6 @@ import caeruleusTait.world.preview.client.gui.widgets.lists.BiomesList;
 import maeiro.worldpreview.temperature.TemperatureAddonState;
 import maeiro.worldpreview.temperature.compat.WorldPreviewConfigExt;
 import net.minecraft.client.Minecraft;
-import net.minecraft.client.gui.GuiGraphics;
 import net.minecraft.client.gui.components.Tooltip;
 import net.minecraft.client.gui.screens.inventory.tooltip.DefaultTooltipPositioner;
 import net.minecraft.network.chat.Component;

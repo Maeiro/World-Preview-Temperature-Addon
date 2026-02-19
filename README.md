@@ -12,6 +12,26 @@ This project is an unofficial addon and **directly depends** on `world_preview`.
 - Biome list colors synchronized with temperature mode.
 - Controls integrated into the World Preview settings screen.
 
+## Showcase
+
+General temperature map showcase:
+
+![General temperature map showcase](img/temperature-filter.png)
+
+Specific biome selected in temperature mode:
+
+![Specific biome selection showcase](img/temperature-filter-specific-biome.png)
+
+Mods used for this showcase setup:
+
+- Biomes O' Plenty
+- Lithostitched
+- Tectonic
+- Temperature Bands
+- TerraBlender (Forge)
+- Terralith
+- World Preview
+
 ## Requirements
 
 - Minecraft `1.20.1`

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "maeiro.worldpreview.temperature.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "world_preview_temperature_addon.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

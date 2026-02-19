@@ -1,0 +1,8 @@
+{
+  "world_preview_temperature_addon.preview.btn-toggle-biome-temperature": "Selecionar vista da temperatura base dos biomas",
+  "world_preview_temperature_addon.preview.btn-toggle-biome-temperature.disabled": "Selecionar vista da temperatura base dos biomas\n\n\u00a77\u00a7oAtive esta funcionalidade nas defini\u00e7\u00f5es primeiro\u00a7r",
+  "world_preview_temperature_addon.settings.general.biome_temp": "Ativar vista da temperatura base dos biomas",
+  "world_preview_temperature_addon.settings.general.biome_temp.tooltip": "Adiciona uma vista dedicada do mapa para temperaturas base de bioma.\n\nN\u00e3o usa os valores de noise temperature.",
+  "world_preview_temperature_addon.settings.general.biome_temp_ocean_gray": "Renderizar biomas de oceano em cinzento claro",
+  "world_preview_temperature_addon.settings.general.biome_temp_ocean_gray.tooltip": "Quando ativo, os biomas de oceano usam um tom cinzento claro no modo de temperatura para melhorar a leitura das \u00e1reas de terra."
+}

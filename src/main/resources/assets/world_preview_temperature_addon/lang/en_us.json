@@ -1,0 +1,8 @@
+{
+  "world_preview_temperature_addon.preview.btn-toggle-biome-temperature": "Select biome base temperature view",
+  "world_preview_temperature_addon.preview.btn-toggle-biome-temperature.disabled": "Select biome base temperature view\n\n\u00a77\u00a7oEnable this feature in settings first\u00a7r",
+  "world_preview_temperature_addon.settings.general.biome_temp": "Enable biome base temperature view",
+  "world_preview_temperature_addon.settings.general.biome_temp.tooltip": "Adds a dedicated map view for base biome temperatures.\n\nThis does not use noise temperature values.",
+  "world_preview_temperature_addon.settings.general.biome_temp_ocean_gray": "Render ocean biomes as light gray",
+  "world_preview_temperature_addon.settings.general.biome_temp_ocean_gray.tooltip": "When enabled, ocean biomes use a light gray tone in biome temperature mode to improve land readability."
+}

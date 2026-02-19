@@ -1,0 +1,8 @@
+{
+  "world_preview_temperature_addon.preview.btn-toggle-biome-temperature": "Выбрать просмотр базовой температуры биомов",
+  "world_preview_temperature_addon.preview.btn-toggle-biome-temperature.disabled": "Выбрать просмотр базовой температуры биомов\n\n§7§oСначала включите эту функцию в настройках§r",
+  "world_preview_temperature_addon.settings.general.biome_temp": "Включить просмотр базовой температуры биомов",
+  "world_preview_temperature_addon.settings.general.biome_temp.tooltip": "Добавляет отдельный режим карты для базовой температуры биомов.\n\nЗначения шумовой температуры не используются.",
+  "world_preview_temperature_addon.settings.general.biome_temp_ocean_gray": "Показывать океанические биомы светло-серыми",
+  "world_preview_temperature_addon.settings.general.biome_temp_ocean_gray.tooltip": "Если включено, океанические биомы в режиме температуры отображаются светло-серым цветом для лучшей читаемости суши."
+}

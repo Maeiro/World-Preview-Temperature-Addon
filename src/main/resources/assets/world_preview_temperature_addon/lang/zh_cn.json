@@ -1,0 +1,8 @@
+{
+  "world_preview_temperature_addon.preview.btn-toggle-biome-temperature": "选择生物群系基础温度视图",
+  "world_preview_temperature_addon.preview.btn-toggle-biome-temperature.disabled": "选择生物群系基础温度视图\n\n§7§o请先在设置中启用此功能§r",
+  "world_preview_temperature_addon.settings.general.biome_temp": "启用生物群系基础温度视图",
+  "world_preview_temperature_addon.settings.general.biome_temp.tooltip": "添加一个用于显示生物群系基础温度的专用地图视图。\n\n不使用噪声温度值。",
+  "world_preview_temperature_addon.settings.general.biome_temp_ocean_gray": "将海洋生物群系渲染为浅灰色",
+  "world_preview_temperature_addon.settings.general.biome_temp_ocean_gray.tooltip": "启用后，在温度模式下海洋生物群系会显示为浅灰色，以便更清晰地突出陆地。"
+}
